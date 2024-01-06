@@ -36,5 +36,6 @@ with a mutex for each of them.
 ## Screenshots
 
 ![screenshot](screenshot.png)
+
 ./philo 5 500 200 300 5
 ![screenshot](screenshot2.png)
